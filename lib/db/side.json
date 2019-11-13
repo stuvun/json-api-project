@@ -1,0 +1,49 @@
+{
+    "meals": [
+      {
+        "strMeal": "Boulangère Potatoes",
+        "strMealThumb": "https://www.themealdb.com/images/media/meals/qywups1511796761.jpg",
+        "idMeal": "52914"
+      },
+      {
+        "strMeal": "Brie wrapped in prosciutto & brioche",
+        "strMealThumb": "https://www.themealdb.com/images/media/meals/qqpwsy1511796276.jpg",
+        "idMeal": "52913"
+      },
+      {
+        "strMeal": "Corba",
+        "strMealThumb": "https://www.themealdb.com/images/media/meals/58oia61564916529.jpg",
+        "idMeal": "52977"
+      },
+      {
+        "strMeal": "Fennel Dauphinoise",
+        "strMealThumb": "https://www.themealdb.com/images/media/meals/ytttsv1511798734.jpg",
+        "idMeal": "52919"
+      },
+      {
+        "strMeal": "French Onion Soup",
+        "strMealThumb": "https://www.themealdb.com/images/media/meals/xvrrux1511783685.jpg",
+        "idMeal": "52903"
+      },
+      {
+        "strMeal": "Kumpir",
+        "strMealThumb": "https://www.themealdb.com/images/media/meals/mlchx21564916997.jpg",
+        "idMeal": "52978"
+      },
+      {
+        "strMeal": "Prawn & Fennel Bisque",
+        "strMealThumb": "https://www.themealdb.com/images/media/meals/rtwwvv1511799504.jpg",
+        "idMeal": "52922"
+      },
+      {
+        "strMeal": "Snert (Dutch Split Pea Soup)",
+        "strMealThumb": "https://www.themealdb.com/images/media/meals/9ptx0a1565090843.jpg",
+        "idMeal": "52981"
+      },
+      {
+        "strMeal": "Split Pea Soup",
+        "strMealThumb": "https://www.themealdb.com/images/media/meals/xxtsvx1511814083.jpg",
+        "idMeal": "52925"
+      }
+    ]
+  }

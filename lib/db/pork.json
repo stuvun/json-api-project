@@ -1,0 +1,49 @@
+{
+    "meals": [
+      {
+        "strMeal": " Bubble & Squeak",
+        "strMealThumb": "https://www.themealdb.com/images/media/meals/xusqvw1511638311.jpg",
+        "idMeal": "52885"
+      },
+      {
+        "strMeal": "Hot and Sour Soup",
+        "strMealThumb": "https://www.themealdb.com/images/media/meals/1529445893.jpg",
+        "idMeal": "52954"
+      },
+      {
+        "strMeal": "Pork Cassoulet",
+        "strMealThumb": "https://www.themealdb.com/images/media/meals/wxuvuv1511299147.jpg",
+        "idMeal": "52847"
+      },
+      {
+        "strMeal": "Stamppot",
+        "strMealThumb": "https://www.themealdb.com/images/media/meals/hyarod1565090529.jpg",
+        "idMeal": "52980"
+      },
+      {
+        "strMeal": "Sweet and Sour Pork",
+        "strMealThumb": "https://www.themealdb.com/images/media/meals/1529442316.jpg",
+        "idMeal": "52949"
+      },
+      {
+        "strMeal": "Toad In The Hole",
+        "strMealThumb": "https://www.themealdb.com/images/media/meals/ytuvwr1503070420.jpg",
+        "idMeal": "52822"
+      },
+      {
+        "strMeal": "Tourtiere",
+        "strMealThumb": "https://www.themealdb.com/images/media/meals/ytpstt1511814614.jpg",
+        "idMeal": "52926"
+      },
+      {
+        "strMeal": "Vietnamese Grilled Pork (bun-thit-nuong)",
+        "strMealThumb": "https://www.themealdb.com/images/media/meals/qqwypw1504642429.jpg",
+        "idMeal": "52828"
+      },
+      {
+        "strMeal": "Wontons",
+        "strMealThumb": "https://www.themealdb.com/images/media/meals/1525876468.jpg",
+        "idMeal": "52948"
+      }
+    ]
+  }
