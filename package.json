@@ -24,6 +24,7 @@
     "express": "^4.17.1",
     "fs": "0.0.1-security",
     "mongoose": "^5.7.11",
+    "nodemon": "^2.0.1",
     "prettier": "^1.19.1"
   }
 }
