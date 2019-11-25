@@ -23,6 +23,7 @@
     "express": "^4.17.1",
     "fs": "0.0.1-security",
     "mongoose": "^5.7.12",
+    "node-fetch": "^2.6.0",
     "nodemon": "^2.0.1",
     "prettier": "^1.19.1"
   },
